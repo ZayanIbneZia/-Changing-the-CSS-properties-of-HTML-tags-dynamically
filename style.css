@@ -1,0 +1,27 @@
+.rectangle {
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: purple;
+
+    margin: auto;
+}
+
+
+h1 {
+
+    text-align: center;
+
+}
+
+.buttons {
+
+    padding: 20px;
+
+    width: 200px;
+
+    margin: auto;
+
+}
